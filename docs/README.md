@@ -1,33 +1,36 @@
 ---
 home: true
 title: Home
-heroImage: https://vuejs.press/images/hero.png
+heroImage: /imgs/logo.png
 actions:
   - text: Get Started
     link: /getting-started.html
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: Demo
+    link: /get-started.html#full-demo-useage
     type: secondary
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+  - title: Easy Use
+    details: Display your tables anywhere. Fixed header with custom header title.
+  - title: Scalable Column Width
+    details: Scalable column width by drag adjustment.
+  - title: Fully Event
+    details: Fast and fully event response for row, just like tap, double tap, hover.
+  - title: Fine Grained Event
+    details: In a row cell, by distinguishing the content area from the blank area, different events can be triggered by right-clicking. 
+  - title: Special Scene Cover
+    details: Blank rows also support right-click context menu, when list content dose not fill all available space.
+  - title: Flexible Control
+    details: When a row was selected, space in this row will trigger row lever context right-clicking menu.
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+hightlights:
+ - image: /imgs/res/demo.png
+
+
+footer: MIT Licensed | Copyright © 2024-present Tiny.Twist
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
