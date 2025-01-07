@@ -4,7 +4,7 @@ import { hopeTheme } from 'vuepress-theme-hope'
 
 export default defineUserConfig({
   lang: 'en-US',
-  base: '/flutter-list-table/',
+  base: '/flutter-list-table.site/',
   title: 'Flutter List Table',
   description: 'Flutter List Table is a table component that is easy to use and capable of handling rich interactions.',
   
