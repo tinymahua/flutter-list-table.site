@@ -196,7 +196,7 @@ List<Map<String, dynamic>> users = [
 ```
 
 
-## Layouts and customization
+<!-- ## Layouts and customization
 
 Here are common configuration controlling layout of `@vuepress/theme-default`:
 
@@ -217,4 +217,4 @@ You can [add extra style][style] with `.vuepress/styles/index.scss` file.
 [navbar]: https://vuejs.press/reference/default-theme/config.html#navbar
 [sidebar]: https://vuejs.press/reference/default-theme/config.html#sidebar
 [default-theme]: https://vuejs.press/reference/default-theme/
-[style]: https://vuejs.press/reference/default-theme/styles.html#style-file
+[style]: https://vuejs.press/reference/default-theme/styles.html#style-file -->
