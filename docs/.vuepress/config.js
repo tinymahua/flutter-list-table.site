@@ -12,6 +12,9 @@ export default defineUserConfig({
   theme: hopeTheme({
     favicon: '/imgs/logo.png',
     logo: '/imgs/logo.png',
+    repo: "tinymahua/flutter_multi_column_list_view",
+    repoLabel: "Github",
+    repoDisplay: true,
     markdown: {
       // 启用 figure
       figure: true,
